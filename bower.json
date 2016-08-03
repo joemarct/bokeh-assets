@@ -1,0 +1,17 @@
+{
+  "name": "bokeh-assets",
+  "authors": [
+    "Joemar Taganna <joemar.ct@gmail.com>"
+  ],
+  "description": "Bokeh scripts and styles in one package",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
